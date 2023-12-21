@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "name": "latte",
+      "price": 17,
+      "photo":
+        "https://cdn.pixabay.com/photo/2017/04/19/13/03/coffee-2242213_640.jpg"
+    },
+    {
+      "id": 2,
+      "name": "mocha",
+      "price": 5,
+      "photo":
+        "https://cdn.pixabay.com/photo/2017/04/19/13/03/coffee-2242213_640.jpg"
+    },
+    {
+      "id": 3,
+      "name": "americano",
+      "price": 15,
+      "photo":
+        "https://cdn.pixabay.com/photo/2017/04/19/13/03/coffee-2242213_640.jpg"
+    },
+    {
+      "id": 4,
+      "name": "cappucino",
+      "price": 3,
+      "photo":
+        "https://cdn.pixabay.com/photo/2017/04/19/13/03/coffee-2242213_640.jpg"
+    }
+  ]
